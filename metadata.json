@@ -1,0 +1,11 @@
+{
+  "name": "Talk2Mind",
+  "description": "An AI-powered multimodal mental well-being assessment platform analyzing facial expressions, speech, and validated questionnaires for holistic wellness support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
